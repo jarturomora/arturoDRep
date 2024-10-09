@@ -1,0 +1,105 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
+  "body": {
+    "doNotList": false,
+    "givenName": {
+      "@value": "₳rturo"
+    },
+    "motivations": {
+      "@value": "I joined the Cardano community in 2015, attracted by its science-based approach. As the project grew, I became passionate about its potential to impact society and the decentralized economy positively. As an educator, I enjoy sharing my vision that Blockchain is more than just cryptocurrencies. Becoming a DRep would allow me to take this vision further, helping the community make decisions that foster sustainable and inclusive development.\n\nMe uní a la comunidad Cardano en 2015, atraído por su enfoque científico. A medida que el proyecto creció, me apasionó su potencial para generar un impacto positivo en la sociedad y la economía descentralizada. Como educador, disfruto compartir mi visión de que la Blockchain es mucho más que criptomonedas. Ser DRep me permitiría llevar esta visión más allá, ayudando a la comunidad a tomar decisiones que fomenten un desarrollo sostenible e inclusivo."
+    },
+    "objectives": {
+      "@value": "My goal is to drive Cardano's sustainable growth by focusing on how it can be used for social impact projects, promoting innovative solutions that benefit vulnerable communities and social causes. I am committed to representing the Spanish-speaking Cardano community, ensuring their voices and perspectives are included in key governance decisions. If you share these values, I invite you to delegate your voting power to me to contribute to Cardano's future.\n\nMi objetivo es impulsar el crecimiento sostenible de Cardano enfocándome en cómo utilizar esta tecnología en proyectos de impacto social, promoviendo soluciones innovadoras que beneficien a comunidades vulnerables y a causas sociales. Me comprometo a representar a los miembros de la comunidad Cardano de habla hispana, asegurando que sus voces y perspectivas estén presentes en las decisiones clave de gobernanza. Si compartes estos valores, te invito a delegar tu poder de voto para contribuir juntos al futuro de Cardano. "
+    },
+    "paymentAddress": {
+      "@value": "addr1qy7gy5ycexs5d69qsf7vx3ulcjrvnhpae0fjzzcncf7ukexka6akngn26lh8m50ugayuhxhkgv4wm032ph637wtkgvjqakmzzx"
+    },
+    "qualifications": {
+      "@value": "I've been involved in the Cardano community since 2015, giving me a deep understanding of its evolution and potential. My background as an educator and engineer equips me to explain complex concepts in an accessible way and to represent the community's needs. Additionally, my passion for social impact and my vision of Blockchain beyond cryptocurrencies position me to guide decisions that promote sustainable and inclusive growth.\n\nTengo experiencia desde 2015 en la comunidad Cardano, lo que me ha permitido comprender profundamente su evolución y potencial. Mi experiencia como educador e ingeniero me capacita para explicar conceptos complejos de manera accesible y para representar las necesidades de la comunidad. Además, mi pasión por el impacto social y mi visión de una Blockchain más allá de las criptomonedas me posicionan para guiar decisiones que promuevan el crecimiento sostenible e inclusivo."
+    },
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "X Profile"
+        },
+        "uri": {
+          "@value": "https://x.com/jarturomora"
+        }
+      },
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "Cardano Cantabria"
+        },
+        "uri": {
+          "@value": "https://cardano-cantabria.github.io/"
+        }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "X Profile"
+        },
+        "uri": {
+          "@value": "https://x.com/jarturomora"
+        }
+      }
+    ]
+  }
+}

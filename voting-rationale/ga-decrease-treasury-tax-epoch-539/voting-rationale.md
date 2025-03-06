@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This analysis represents **my personal perspective** and does not reflect the views or official stance of any institution, organization, or company I collaborate with. Its purpose is to gain a deeper understanding of the potential impact of the proposed treasury tax reduction and to inform my own voting decision for the related Governance Action in Cardano’s on-chain governance system. This is not financial or governance advice, and I encourage others to conduct their own research before making any decisions.
+This analysis represents **my opinion** and does not reflect the views or official stance of any institution, organization, or company I collaborate with. Its purpose is to gain a deeper understanding of the potential impact of the proposed treasury tax reduction and to inform my own voting decision for the related Governance Action in Cardano’s on-chain governance system. This is not financial or governance advice, and I encourage others to conduct their own research before making any decisions.
 
 ## Summary
 

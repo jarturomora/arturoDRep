@@ -2,7 +2,7 @@
 
 ## Descargo de responsabilidad
 
-Este análisis representa **mi perspectiva personal** y no refleja la opinión ni la postura oficial de ninguna institución, organización o empresa con la que colaboro. El propósito de este análisis es obtener una mejor comprensión del posible impacto de la **reducción del impuesto a la tesorería** y fundamentar mi decisión de voto en la **Acción de Gobernanza** correspondiente dentro del sistema de gobernanza en cadena de Cardano. Este análisis no constituye asesoramiento financiero ni de gobernanza, y animo a otros a realizar su propia investigación antes de tomar cualquier decisión.
+Este análisis representa **mi opinion** y no refleja la opinión ni la postura oficial de ninguna institución, organización o empresa con la que colaboro. El propósito de este análisis es obtener una mejor comprensión del posible impacto de la **reducción del impuesto a la tesorería** y fundamentar mi decisión de voto en la **Acción de Gobernanza** correspondiente dentro del sistema de gobernanza en cadena de Cardano. Este análisis no constituye asesoramiento financiero ni de gobernanza, y animo a otros a realizar su propia investigación antes de tomar cualquier decisión.
 
 ## Resumen
 

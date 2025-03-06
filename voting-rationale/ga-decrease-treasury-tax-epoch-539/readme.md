@@ -1,8 +1,8 @@
-# Monte Carlo Simulation to Support My Voting Rationale for the Governance Action "Decrease Treasury Tax from 20% to 10%"
+# My Voting Rationale for the Governance Action "Decrease Treasury Tax from 20% to 10%"
 
 ## My Voting Decision
 
-> I decided to vote **No** to this governance action.
+> [I voted **No**](https://adastat.net/transactions/404521e551f589c4152cebaafa14f7ed7dc44609850c47de40e5f6d1d2b48870) to this governance action.
 
 I firmly believe that **a sustainable treasury is essential** for ensuring Cardano’s long-term resilience. Given the projected decline in treasury balance under the proposed tax reduction, I am inclined to vote **against** the reduction unless there is a **clear, alternative plan** to balance spending and revenue.
 
